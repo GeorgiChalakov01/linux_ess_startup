@@ -1,0 +1,1 @@
+nmcli d wifi connect ChaluA2 password "brat za brata2"
