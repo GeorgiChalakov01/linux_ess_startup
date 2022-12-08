@@ -2,4 +2,4 @@
 
 
 
-sudo pacman -S gcc vim firefox btop
+sudo pacman -S gcc vim firefox btop pavucontrol
